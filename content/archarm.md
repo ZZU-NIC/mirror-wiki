@@ -1,3 +1,6 @@
+---
+title: Arch Linux ARM
+---
 # Arch Linux ARM 镜像使用帮助
 
 ## 文档修订日期

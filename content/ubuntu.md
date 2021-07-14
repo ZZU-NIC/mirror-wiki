@@ -1,3 +1,6 @@
+---
+title: Ubuntu
+---
 # Ubuntu 镜像使用帮助
 
 ## 文档修订日期
