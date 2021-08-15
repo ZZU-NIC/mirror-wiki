@@ -1,6 +1,7 @@
 ---
 title: Arch Linux CN
 ---
+<!-- ex_nolevel -->
 # Arch Linux CN 镜像使用帮助
 
 ## 文档修订日期

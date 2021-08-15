@@ -1,6 +1,7 @@
 ---
 title: Debian
 ---
+<!-- ex_nolevel -->
 # Debian 镜像使用帮助
 
 ## 文档修订日期

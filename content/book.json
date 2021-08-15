@@ -1,0 +1,70 @@
+{
+    "author": "Fan Wang <fan_wang@gs.zzu.edu.cn>",
+    "description": "郑州大学开源镜像站 Wiki",
+    "extension": null,
+    "generator": "site",
+    "links": {
+        "sharing": {
+            "all": null,
+            "facebook": null,
+            "google": null,
+            "twitter": null,
+            "weibo": null
+        },
+        "sidebar": {
+            "开源镜像站": "http://mirrors.zzu.edu.cn",
+            "软件大全": "http://soft.zzu.edu.cn",
+            "网络空间安全实验室": "http://cybsec.zzu.edu.cn"
+        }
+    },
+    "plugins": [
+        "chapter-fold",
+        "code",
+        "splitter",
+        "tbfed-pagefooter",
+        "-sharing",
+        "sharing-plus",
+        "anchor-navigation-ex",
+        "alerts",
+        "flexible-alerts",
+        "pageview-count",
+        "insert-logo",
+        "custom-favicon"
+    ],
+    "pluginsConfig": {
+        "tbfed-pagefooter": {
+            "copyright": "版权所有 © CybSec.ZZU & 郑州大学网络管理中心",
+            "modify_label": "该文件修订时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "sharing": {
+            "all": [
+                "douban",
+                "weibo",
+                "qq",
+                "qzone"
+            ]
+        },
+        "pluginsConfig": {
+            "page-toc-button": {
+                "maxTocDepth": 2,
+                "minTocSize": 2
+            }
+        },
+        "flexible-alerts": {
+            "style": "callout",
+            "comment": {
+                "label": "Comment",
+                "icon": "fa fa-comments",
+                "className": "info"
+            }
+        },
+        "insert-logo": {
+            "url": "logo.png",
+            "style": "background: none; max-height: 60px"
+        },
+        "favicon": "favicon.ico"
+    },
+    "title": "郑州大学开源镜像站 Wiki",
+    "variables": {}
+}

@@ -1,6 +1,7 @@
 ---
 title: CentOS
 ---
+<!-- ex_nolevel -->
 # CentOS 镜像使用帮助
 
 ## 文档修订日期

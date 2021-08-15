@@ -1,6 +1,7 @@
 ---
 title: CTAN
 ---
+<!-- ex_nolevel -->
 # CTAN 镜像使用帮助
 
 ## 文档修订日期
