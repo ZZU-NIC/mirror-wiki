@@ -26,6 +26,9 @@ x86_64, i386
 
 ## 使用说明
 
+> [!WARNING]
+> 请注意备份原始文件
+
 1. 备份/etc/yum.repos.d/内文件
 
    CentOS 7 及之前为 CentOS-Base.repo，CentOS 8 为CentOS-Linux-*.repo

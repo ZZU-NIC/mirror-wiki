@@ -26,6 +26,10 @@ EPEL (Extra Packages for Enterprise Linux) 是由 Fedora Special Interest Group 
 
 ## 使用说明
 
+> [!WARNING]
+> 请注意备份原始文件
+
+
 ### 1. 备份(如有配置其他epel源)
 
 ```shell

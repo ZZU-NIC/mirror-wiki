@@ -28,6 +28,10 @@ Debian Old Stable, Stable, Testing, Unstable(sid)
 
 ## 使用说明
 
+> [!DANGER]
+> 请注意备份原始文件
+
+
 ### 一键替换
 
 一般情况下，将 /etc/apt/sources.list 文件中 Debian 默认的源地址 http://deb.debian.org/ 替换为 http://mirrors.zzu.edu.cn 即可。 可以使用如下命令：

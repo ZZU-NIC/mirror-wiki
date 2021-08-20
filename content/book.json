@@ -27,7 +27,6 @@
         "anchor-navigation-ex",
         "alerts",
         "flexible-alerts",
-        "pageview-count",
         "insert-logo",
         "custom-favicon"
     ],
@@ -63,7 +62,7 @@
             "url": "logo.png",
             "style": "background: none; max-height: 60px"
         },
-        "favicon": "favicon.ico"
+        "favicon": "./favicon.ico"
     },
     "title": "郑州大学开源镜像站 Wiki",
     "variables": {}

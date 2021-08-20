@@ -46,6 +46,6 @@ baseurl=http://mirrors.zzu.edu.cn/kubernetes/yum/repos/kubernetes-el7-$basearch
 enabled=1
 ```
 
-### Minikube
+<!-- ### Minikube
 
-请到 [minikube 镜像](http://mirrors.zzu.edu.cn/github-release/kubernetes/minikube/LatestRelease/) 下载。
+请到 [minikube 镜像](http://mirrors.zzu.edu.cn/github-release/kubernetes/minikube/LatestRelease/) 下载。 -->

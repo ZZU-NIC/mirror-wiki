@@ -22,6 +22,10 @@ amd64, armel, armhf, i386
 
 ## 使用说明
 
+> [!WARNING]
+> 请注意备份原始文件
+
+
 编辑 /etc/apt/sources.list 文件, 在文件最前面添加以下条目：
 
 ```shell
